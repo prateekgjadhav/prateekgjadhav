@@ -29,15 +29,15 @@ My experience includes working on:
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=ypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badgept
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badgeon
+![JavaScript]
+![Python]
 
 ### Development
-![Git](https://img.shields.io/badge/Git-333333?style=for-the-bgo=git
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-bgithub
-![VS Code](https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visual-st### Interests
-![AI](https://img.shields.io/badge/AI-333333?style=for-the-badges](https://img.shields.io/badge/LLMsstyle=for-the-badge
-![Automation](https://img.shields.io/badge/Automation-333333?style=![DevOps](https://img.shields.io/ps-333333?style=for-the-badge
+![Git]
+![GitHub]
+![VS Code]
+![AI]
+![Automation]
 
 ---
 
