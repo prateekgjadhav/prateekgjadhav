@@ -54,7 +54,7 @@ My experience includes working on:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek_Jadhav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prateek-jadhav-aba
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek_Jadhav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prateek-jadhav-aba381177/)
 ## 💡 Favorite Engineering Mindset
 
 > "Make it work, make it right, make it fast."
