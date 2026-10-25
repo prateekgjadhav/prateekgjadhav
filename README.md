@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Prateek Jadhav
 
-### Software Engineer | Platform Migrations | Dev Tools | AI Enthusiast
+### Software Engineer | Platform Migrations | Dev Tools | AI Enthusiast | Automation Tester 
 
 I'm a software engineer passionate about building reliable systems, streamlining development workflows, and solving complex engineering challenges.
 
